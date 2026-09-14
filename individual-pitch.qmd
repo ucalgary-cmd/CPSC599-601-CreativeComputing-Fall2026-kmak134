@@ -5,25 +5,44 @@ date: 2026-09-04
 ---
 
 # Contents
-
-- What is your background?
+Kevin Mak Individual Pitch
+<!-- - What is your background?
 - What creative computing aspects drive you individually?
-- What kind of project you'd like to collaborate on later in a group?
+- What kind of project you'd like to collaborate on later in a group? -->
 
 # Background
+- Master's Student focused on HCI, AR/VR development.
+- Just started this Fall 2026 term
+- Past Degree: BSc in Computer Science at UBC
+- Was Software Developer for past 2 years at BCMEA
 
-1 slide with suggested content:
+<!-- 1 slide with suggested content:
 
 - Degree and current year...
 - Current major...
 - Past degrees...
-- ...
+- ... -->
 
 # My Approach to Creative Computing
+General Research Interests
 
-1+ slide with your general (research) interests related to creative computing...
+- Would like to incorporate some form of AR/VR in this class
+- Leaning more towards Audio and Vision modalities (maybe some Interaction)
+- Experiment with Audio Augmented Reality
 
-# Project Idea(s)
+<!-- 1+ slide with your general (research) interests related to creative computing... -->
+
+# Audio Augmented Reality 
+<!-- skip if too long -->
+What is Audio Augmented Reality (AAR)?
+
+- Blending of real world with virtual, spatial (directional) audio
+- More accessible hardware requirements compared to visual AR (smartphones and earbuds are enough)
+- Control schemes for AAR applications are under-explored
+    - Sonic Gestures (snapping, clapping, humming) have promise 
+
+
+# Project Idea
 
 1+ slide per idea with suggested content:
 

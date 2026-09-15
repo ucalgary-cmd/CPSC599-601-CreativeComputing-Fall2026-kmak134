@@ -29,16 +29,17 @@ General Research Interests
 - Would like to incorporate some form of AR/VR in this class
 - Leaning more towards Audio and Vision modalities (maybe some Interaction)
 - Experiment with Audio Augmented Reality
+    - Control schemes underexplored, experiment with sonic gestures (snapping, humming, clapping)
 
 <!-- 1+ slide with your general (research) interests related to creative computing... -->
 
-# Audio Augmented Reality 
+<!-- # Audio Augmented Reality 
 What is Audio Augmented Reality (AAR)?
 
 - Blending of real world with virtual, spatial (directional) audio inputs and outputs
 - More accessible hardware requirements compared to visual AR
 - Control schemes for AAR applications are under-explored
-    - Sonic Gestures (snapping, clapping, humming) have promise 
+    - Sonic Gestures (snapping, clapping, humming) have promise  -->
 
 
 ## Project Idea

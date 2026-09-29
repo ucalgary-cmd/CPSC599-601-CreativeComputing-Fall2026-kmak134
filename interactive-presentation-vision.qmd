@@ -1,0 +1,27 @@
+---
+# Extends metadata from _quarto.yml
+subtitle: "Individual Repository"
+date: 2026-09-04
+---
+
+# Contents
+Visual Interactive Presentation
+
+# Original Example
+```{=html}
+<iframe width="920" height="650" src="https://editor.p5js.org/kmak/full/Fdlf95R0G"></iframe>
+```
+
+# Design Idea
+- Make keyboard more colorful (don't want only red when pressed)
+- Add a longer lasting visual feedback that a key is pressed
+
+# Updated Example
+```{=html}
+<iframe width="920" height="650" src="https://editor.p5js.org/kmak/full/qcQdlGmMY"></iframe>
+```
+
+# If more time
+- Add toggle to switch between octaves
+- More grandiose effect instead of just blocks (more sparklies)
+- Different color modes instead of RGB

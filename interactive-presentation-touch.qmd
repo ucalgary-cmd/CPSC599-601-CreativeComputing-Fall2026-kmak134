@@ -1,0 +1,47 @@
+---
+# Extends metadata from _quarto.yml
+subtitle: "Interactive Presentation: Touch"
+date: 2026-10-06
+Author:
+    - name: "Ethan & Kevin"
+---
+
+## Provenance 
+
+**Source Artifact:** 
+- Chai3D - Bullet Demo Examples (06-Bullet-exploration)
+- Chai3D (Framework), Bullet (Physics Engine), Novint Falcon (Haptics Device), C++
+
+- **Original Behavior:** A simple demo, to showcase haptics and physics engine with a gripper cursor.
+- The instance we modified, was a scene with 3 boxes and some slots you could place the boxes into.
+
+## Intent & Design Idea
+
+- **Why?:** 
+    - Using the gripper to interact with the objects in the scene, felt like a fun interactive experience.
+
+- **Design Idea:**
+    - Claw machine :D
+
+## Demo
+
+::: {style="text-align: center;"}
+![](images\slideimages\clawmachine.png){height="550px"}
+:::
+
+## Creative Updates
+
+- **New objects, and properties:** We added spheres and rectangles, changed the mass of the objects.
+
+- **Added box:** We added a box to act as the claw machines chute.
+
+- **Expanded Play space:** Increased the space for moving and interacting with the objects by moving the invisible walls outwards.
+
+
+## Reuse & Extend
+
+- More object types, shapes, meshes, properties
+- Make a whole claw machine model.
+- Change the gripper to look and act like a claw.
+- Sound effects, background, timer, win screen
+- Add the claw mechanic of moving the claw from the top along the x-axis, then drops and automatically closes

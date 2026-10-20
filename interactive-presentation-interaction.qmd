@@ -35,12 +35,17 @@ Author:
 
 - **Haptic Interaction:** Added buttons to the board for users to press and time to the music
 
-- **Hit detection:** Visual feedback on screen to determine if user successfully hit a note or missed it. 
+- **Screen Display:** Used a more detailed LCD for tiles and text
+
+- **Hardware Feedback:** Integrated LEDs to reflect button presses, along with speaker tones for successful or unsuccessful hits/misses.
+
+- **Hit detection:** Visual and audio feedback on screen to determine if user successfully hit a note or missed it. 
 
 
 ## Reuse & Extend
 
-- More songs
+- More songs, and a game menu
 - More keys we could add to the board
 - Option to adjust falling speed of notes
 - Note offset options
+- Make the buttons actually reflect the horizontal keys. Get the wires out of the way

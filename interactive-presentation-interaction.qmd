@@ -1,0 +1,46 @@
+---
+# Extends metadata from _quarto.yml
+subtitle: "Interactive Presentation: Interaction"
+date: 2026-10-19
+Author:
+    - name: "Ethan & Kevin"
+---
+
+## Provenance 
+
+**Source Artifact:** 
+
+- Arduino Kit
+- LilyGo T-Display S3 development board
+    - Main control chip is ESP32-S3
+    - Display screen and buttons attached
+
+## Intent & Design Idea
+
+- **Why?:** 
+    - Wanted to make a fun touch-based experience that you could directly interact with through the Arduino board
+
+- **Design Idea:**
+    - Piano Tiles minigame
+
+## Demo
+
+::: {style="text-align: center;"}
+![](images\slideimages\pianotiles.jpg){height="550px"}
+:::
+
+## Creative Updates
+
+- **Piano tiles game:** Vertical-scrolling rhythm game with 4 keys
+
+- **Haptic Interaction:** Added buttons to the board for users to press and time to the music
+
+- **Hit detection:** Visual feedback on screen to determine if user successfully hit a note or missed it. 
+
+
+## Reuse & Extend
+
+- More songs
+- More keys we could add to the board
+- Option to adjust falling speed of notes
+- Note offset options

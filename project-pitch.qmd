@@ -1,0 +1,47 @@
+---
+# Extends metadata from _quarto.yml
+subtitle: "Project Pitch"
+date: 2026-10-26
+Author: "Kevin Mak"
+---
+
+
+# Background
+- Want to relate to my research interests
+    - How non-verbal gestures affect coordination within virtual environments
+- Examples include eye gaze / contact, head nods, exaggerated body motions
+- Experiment with some non-verbal gestures as input methods for project
+- Using this project as an opportunity for VR development practice
+
+---
+
+- Will use Meta Quest 3 headset (provided by my supervisor Matthew Lakier)
+- Prior research has found that using a head direction pointer is a good substitute for eye gaze tracking
+    - Cheaper, more accessible, doesn't require complex eye tracking hardware
+- Quest 3 also has built-in hand tracking using the headset's camera, want to experiment with this
+
+::: {style="text-align: center;"}
+![](images\slideimages\MetaQuest3.webp){height="200px"}
+:::
+
+## Interactive VR Music Workstation
+- VR music workstation idea from beginning of term
+- More emphasis on non-verbal gestures as inputs
+
+::: {style="text-align: center;"}
+![](images\slideimages\MusicWorkstationSketch.jpeg){height="500px"}
+:::
+
+# Plan
+- Build project in Unity and C#, as its XR Interaction Toolkits and plugins simplify VR integration and development. 
+- Will use Quest 3 headset (provided by supervisor Dr. Lakier)
+- Modalities implemented:
+    - Vision (virtual reality is vision-focused!)
+    - Audio (audio feedback from notes)
+    - Interaction (using non-verbal gestures to interact with workstation)
+
+# Team
+
+- 1-2 people.
+- Clarification of potential third-party help, e.g.:
+  - Probably will use AI for general software development assistance as I'm not experienced with VR development. 
